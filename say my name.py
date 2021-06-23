@@ -1,1 +1,5 @@
-print("Dr. Heisenberg")
+def main():
+
+	print("Dr. Heisenberg")
+
+print("Do what?")
